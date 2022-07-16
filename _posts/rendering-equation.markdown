@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Rendering Equation"
 date:   2019-12-03 13:01:53 +0100
 categories: jekyll update
 ---
